@@ -6,3 +6,5 @@ Presents a microservice ecosystem composed by multiple service to practice conce
 * Http interfaces
 * Spring 3 and rest client
 * Async comunnication between services with spring cloud functions and kafka
+* Feing, Eruka
+* Spring cloud config, spring cloud gateway
