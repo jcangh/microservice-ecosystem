@@ -1,0 +1,10 @@
+spring:
+  aplication:
+    name: ConfigServer
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/jcangh/config-server-properties.git
+server:
+  port: 8888
