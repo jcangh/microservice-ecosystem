@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://qa-db:3306/products
+    username: user
+    password: admin!
